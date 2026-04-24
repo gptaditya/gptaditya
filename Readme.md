@@ -8,7 +8,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-xadisri.in-64FFD4?style=for-the-badge&logo=vercel&logoColor=black)](https://www.xadisri.in/)
 [![Email](https://img.shields.io/badge/Email-adityacse207@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityacse207@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adityacse207)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gptaditya)
 
 </div>
 
