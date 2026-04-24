@@ -2,8 +2,7 @@
 
 # Hi 👋, I'm Aditya Gupta
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=64FFD4&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Spring+Boot+%7C+React+%7C+Next.js+%7C+Node.js;Learning+AI+%26+Machine+Learning;Building+cool+stuff+%F0%9F%9A%80" alt="Typing SVG" />
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=800&color=64FFD4&center=true&vCenter=true&width=500&height=55&lines=Full+Stack+Developer+🚀;MERN+Stack+%2B+Spring+Boot;Next.js+%7C+Node.js+%7C+Java;Learning+AI+%26+ML+🤖;Let's+build+something+great!" alt="Typing SVG" />
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-xadisri.in-64FFD4?style=for-the-badge&logo=vercel&logoColor=black)](https://www.xadisri.in/)
