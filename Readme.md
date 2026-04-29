@@ -15,9 +15,9 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm a **Full Stack Developer** specializing in the MERN stack
+- 🔭 I'm a **Full Stack Developer** specializing in the Java & MERN stack
 - 🌱 Currently diving deep into **AI & Machine Learning**
-- 💬 Ask me about **React JS, Next JS, Node JS, Full-Stack Development**
+- 💬 Ask me about **Java, React JS, Next JS, Node JS, Full-Stack Development**
 - 🌐 Portfolio: [xadisri.in](https://www.xadisri.in/)
 - 📫 Reach me at: **adityacse207@gmail.com**
 - ⚡ Fun fact: I turn caffeine into code
